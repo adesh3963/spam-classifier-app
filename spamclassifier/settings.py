@@ -25,7 +25,7 @@ SECRET_KEY = '4xv7hx#8yi_lt6sf&uc!tbw3=mxch(4(katya@@)i9j@6e&*qg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['spam-test-app.herokuapp.com']
 
 
 # Application definition
