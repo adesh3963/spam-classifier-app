@@ -2,7 +2,6 @@ from django.shortcuts import render,HttpResponse
 from spamhome.models import  Messeges
 
 ### importing data for my spam classifier
-import pandas as pd
 import numpy as np
 import nltk
 import re
